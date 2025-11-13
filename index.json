@@ -1,3 +1,26 @@
 {
-version: 1.0.0
+  "nama": "Andi Pratama",
+  "umur": 25,
+  "email": "andi.pratama@example.com",
+  "alamat": {
+    "jalan": "Jl. Merdeka No. 45",
+    "kota": "Bandung",
+    "provinsi": "Jawa Barat",
+    "kode_pos": "40115"
+  },
+  "hobi": ["membaca", "bersepeda", "memasak"],
+  "akun_aktif": true,
+  "riwayat_pendidikan": [
+    {
+      "jenjang": "SMA",
+      "sekolah": "SMA Negeri 1 Bandung",
+      "tahun_lulus": 2017
+    },
+    {
+      "jenjang": "S1",
+      "universitas": "Universitas Indonesia",
+      "jurusan": "Teknik Informatika",
+      "tahun_lulus": 2021
+    }
+  ]
 }
